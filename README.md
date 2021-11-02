@@ -9,7 +9,7 @@ Citation for core folder
   year = {2021}
 }
 
-contents of notebooks folder:
+Contents of notebooks folder:
  - data generation script used to sample and create train and test sets
  - performance analysis script used to analyse loss and accuracy for agents with size (N,v)
  - symbol analysis script used to analyse sender message and receiver output 
